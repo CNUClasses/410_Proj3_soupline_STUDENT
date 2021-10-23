@@ -12,8 +12,7 @@
 
 You have been provided with a project with the following structure:
 
-![](media/image1.png){width="1.8541666666666667in"
-height="2.654861111111111in"}
+![](media/image1.png)
 
 This project simulates a soupline, where multiple people (1 per thread)
 go to a soupline (a global variable) to get a bowl of soup and a drink
