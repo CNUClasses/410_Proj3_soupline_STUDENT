@@ -18,7 +18,7 @@ This project simulates a soupline, where multiple people (1 per thread)
 go to a soupline (a global variable) to get a bowl of soup and a drink
 (see below).
 
-![](media/image2.png){width="6.5in" height="2.9743055555555555in"}
+![](media/image2.png)
 
 They continue getting soup and drinks until the soupline runs out of
 both.
